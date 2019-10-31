@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<lombok.version>1.18.2</lombok.version>
-		<sparkVersion>2.2.0</sparkVersion>
+		<sparkVersion>2.4.4</sparkVersion>
 		<version.springfox-swagger>2.9.2</version.springfox-swagger>
 	</properties>
 
